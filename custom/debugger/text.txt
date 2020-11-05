@@ -1,0 +1,7 @@
+   1   	#include <stdio.h>
+   2   	
+   3   	int main() {
+   4   		int i = 5;
+   5   		printf("hello world! %d\n", i);
+=> 6   	}
+   7   		
